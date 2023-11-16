@@ -1,0 +1,45 @@
+[{
+  "_id": {
+    "$oid": "65568637d9feba59f77f73cc"
+  },
+  "nombre": "John Martinez",
+  "edad": 55,
+  "pais": "Colombia",
+  "especialidad": "Karate"
+},
+{
+  "_id": {
+    "$oid": "65568637d9feba59f77f73cd"
+  },
+  "nombre": "Johny Rivera",
+  "edad": 60,
+  "pais": "Colombia",
+  "especialidad": "Karate"
+},
+{
+  "_id": {
+    "$oid": "65568637d9feba59f77f73ce"
+  },
+  "nombre": "Alci Acosta",
+  "edad": 48,
+  "pais": "Colombia",
+  "especialidad": "Karate"
+},
+{
+  "_id": {
+    "$oid": "65568637d9feba59f77f73cf"
+  },
+  "nombre": "Joe Arroyo",
+  "edad": 49,
+  "pais": "colombia",
+  "especialidad": "Karate"
+},
+{
+  "_id": {
+    "$oid": "65568637d9feba59f77f73d0"
+  },
+  "nombre": "Juan Gabriel",
+  "edad": 50,
+  "pais": "Mexico",
+  "especialidad": "Karate"
+}]

@@ -1,0 +1,72 @@
+[{
+  "_id": {
+    "$oid": "65568638d9feba59f77f73d1"
+  },
+  "encuentro": "ED01",
+  "marcadorLocal": 6,
+  "marcadorVisitante": 0,
+  "ganador": "D01"
+},
+{
+  "_id": {
+    "$oid": "65568638d9feba59f77f73d2"
+  },
+  "encuentro": "ED02",
+  "marcadorLocal": 2,
+  "marcadorVisitante": 1,
+  "ganador": "D03"
+},
+{
+  "_id": {
+    "$oid": "65568638d9feba59f77f73d3"
+  },
+  "encuentro": "ED03",
+  "marcadorLocal": 4,
+  "marcadorVisitante": 3,
+  "ganador": "D05"
+},
+{
+  "_id": {
+    "$oid": "65568638d9feba59f77f73d4"
+  },
+  "encuentro": "ED04",
+  "marcadorLocal": 9,
+  "marcadorVisitante": 7,
+  "ganador": "D08"
+},
+{
+  "_id": {
+    "$oid": "65568638d9feba59f77f73d5"
+  },
+  "encuentro": "ED05",
+  "marcadorLocal": 3,
+  "marcadorVisitante": 5,
+  "ganador": "D03"
+},
+{
+  "_id": {
+    "$oid": "65568638d9feba59f77f73d6"
+  },
+  "encuentro": "ED06",
+  "marcadorLocal": 0,
+  "marcadorVisitante": 4,
+  "ganador": "D08"
+},
+{
+  "_id": {
+    "$oid": "65568638d9feba59f77f73d7"
+  },
+  "encuentro": "ED07",
+  "marcadorLocal": 4,
+  "marcadorVisitante": 0,
+  "ganador": "D01"
+},
+{
+  "_id": {
+    "$oid": "65568638d9feba59f77f73d8"
+  },
+  "encuentro": "ED08",
+  "marcadorLocal": 4,
+  "marcadorVisitante": 3,
+  "ganador": "D08"
+}]

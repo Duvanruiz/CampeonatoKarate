@@ -1,0 +1,88 @@
+[{
+  "_id": {
+    "$oid": "65568638d9feba59f77f73d9"
+  },
+  "deportista": "D01",
+  "puntos": 2,
+  "partidosJugados": 3,
+  "partidosGanados": 2,
+  "partidosEmpatados": 0,
+  "partidosPerdidos": 1
+},
+{
+  "_id": {
+    "$oid": "65568638d9feba59f77f73da"
+  },
+  "deportista": "D02",
+  "puntos": 0,
+  "partidosJugados": 1,
+  "partidosGanados": 0,
+  "partidosEmpatados": 0,
+  "partidosPerdidos": 1
+},
+{
+  "_id": {
+    "$oid": "65568638d9feba59f77f73db"
+  },
+  "deportista": "D03",
+  "puntos": 2,
+  "partidosJugados": 3,
+  "partidosGanados": 2,
+  "partidosEmpatados": 0,
+  "partidosPerdidos": 1
+},
+{
+  "_id": {
+    "$oid": "65568638d9feba59f77f73dc"
+  },
+  "deportista": "D04",
+  "puntos": 0,
+  "partidosJugados": 1,
+  "partidosGanados": 0,
+  "partidosEmpatados": 0,
+  "partidosPerdidos": 1
+},
+{
+  "_id": {
+    "$oid": "65568638d9feba59f77f73dd"
+  },
+  "deportista": "D05",
+  "puntos": 1,
+  "partidosJugados": 2,
+  "partidosGanados": 1,
+  "partidosEmpatados": 0,
+  "partidosPerdidos": 1
+},
+{
+  "_id": {
+    "$oid": "65568638d9feba59f77f73de"
+  },
+  "deportista": "D06",
+  "puntos": 0,
+  "partidosJugados": 1,
+  "partidosGanados": 0,
+  "partidosEmpatados": 0,
+  "partidosPerdidos": 1
+},
+{
+  "_id": {
+    "$oid": "65568638d9feba59f77f73df"
+  },
+  "deportista": "D07",
+  "puntos": 0,
+  "partidosJugados": 1,
+  "partidosGanados": 0,
+  "partidosEmpatados": 0,
+  "partidosPerdidos": 1
+},
+{
+  "_id": {
+    "$oid": "65568638d9feba59f77f73e0"
+  },
+  "deportista": "D08",
+  "puntos": 4,
+  "partidosJugados": 3,
+  "partidosGanados": 1,
+  "partidosEmpatados": 0,
+  "partidosPerdidos": 0
+}]

@@ -1,0 +1,72 @@
+[{
+  "_id": "D01",
+  "nombre": "Juan Miguel Rodriguez",
+  "edad": 20,
+  "peso": 65,
+  "altura": 170,
+  "cinturon": "blanco",
+  "pais": "colombia"
+},
+{
+  "_id": "D02",
+  "nombre": "Daniel Fernando Uribe",
+  "edad": 21,
+  "peso": 66,
+  "altura": 170,
+  "cinturon": "blanco",
+  "pais": "colombia"
+},
+{
+  "_id": "D03",
+  "nombre": "jose firminho",
+  "edad": 19,
+  "peso": 68,
+  "altura": 175,
+  "cinturon": "rojo",
+  "pais": "brasil"
+},
+{
+  "_id": "D04",
+  "nombre": "Hugo pedraza",
+  "edad": 22,
+  "peso": 70,
+  "altura": 175,
+  "cinturon": "blanco",
+  "pais": "argentina"
+},
+{
+  "_id": "D05",
+  "nombre": "Richarlison Moreno",
+  "edad": 19,
+  "peso": 68,
+  "altura": 171,
+  "cinturon": "blanco",
+  "pais": "brasil"
+},
+{
+  "_id": "D06",
+  "nombre": "Hector lavoe",
+  "edad": 24,
+  "peso": 70,
+  "altura": 175,
+  "cinturon": "blanco",
+  "pais": "colombia"
+},
+{
+  "_id": "D07",
+  "nombre": "Julio Jaramillo",
+  "edad": 22,
+  "peso": 70,
+  "altura": 175,
+  "cinturon": "blanco",
+  "pais": "ecuador"
+},
+{
+  "_id": "D08",
+  "nombre": "Charlie Zaa",
+  "edad": 23,
+  "peso": 68,
+  "altura": 171,
+  "cinturon": "blanco",
+  "pais": "Colombia"
+}]

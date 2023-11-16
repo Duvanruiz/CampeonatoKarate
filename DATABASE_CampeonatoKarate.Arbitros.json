@@ -1,0 +1,35 @@
+[{
+  "_id": "AR01",
+  "nombre": "Vicente Fernadez",
+  "edad": 74,
+  "pais": "Mexico",
+  "especialidad": "Artes marciales mixtas"
+},
+{
+  "_id": "AR02",
+  "nombre": "Michael Jackson",
+  "edad": 38,
+  "pais": "EEUU",
+  "especialidad": "Karate"
+},
+{
+  "_id": "AR03",
+  "nombre": "Akimura yoshimoto",
+  "edad": 56,
+  "pais": "Japon",
+  "especialidad": "Karate"
+},
+{
+  "_id": "AR04",
+  "nombre": "xim pi ci",
+  "edad": 39,
+  "pais": "china",
+  "especialidad": "karate"
+},
+{
+  "_id": "AR05",
+  "nombre": "Brayan Galindo",
+  "edad": 38,
+  "pais": "colombia",
+  "especialidad": "Karate"
+}]
