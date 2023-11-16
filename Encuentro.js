@@ -1,4 +1,4 @@
-//Copiar y pegar este codigo en la consolo de mongodb, de esta manera se creará y ejecutará.
+//Copiar y pegar este codigo en la consola de mongodb, de esta manera se creará y ejecutará.
 //Creando así la base de datos y sus coleciiónes
 use DATABASE_CampeonatoKarate
 
