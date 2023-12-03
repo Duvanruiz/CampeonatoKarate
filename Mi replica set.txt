@@ -1,0 +1,91 @@
+//server console
+MiejReplicaSet = new ReplSetTest ({name: "MireplicaSet", nodes: 3});
+print("hecho")
+
+MiejReplicaSet.startSet()
+
+MiejReplicaSet.initiate()
+
+//New console
+
+conn=new Mongo("DESKTOP-4VL6B3M:20000")
+
+testDB=conn.getDB("CampeonatoKarate")
+
+testDB.isMaster()
+
+testDB.Deportista.insert(
+{
+"Id_dep": "100120",
+ "nombre_dep": "William Snake",
+"Genero": "Masculino"
+});
+
+testDB.Deportista.insert(
+{
+"Id_dep": "100245",
+ "nombre_dep": "Ernesto Perez",
+ "Genero": "Masculino"
+});
+
+testDB.Escuela.insert(
+{
+ id_escuela: "1 ",
+ nombre : " Lepard ",
+pais: " USA ",
+ Categoria: " amateur "
+});
+
+testDB.Escuela.insert(
+{
+ id_escuela: "2 ",
+ nombre : " Ninja ",
+pais: " JAP ",
+ Categoria: " amateur "
+});
+
+testDB.Escuela.insert(
+{
+ id_escuela: "3 ",
+ nombre : " Nobles ",
+pais: " unite kingdoom ",
+ Categoria: " amateur "
+});
+
+testDB.Deportista.count();
+
+testDB.Escuela.count();
+
+connSecondary = new Mongo("DESKTOP-4VL6B3M:20001")
+
+secondaryTestDB = connSecondary.getDB("CampeonatoKarate")
+
+secondaryTestDB.isMaster()
+
+secondaryTestDB.Escuela.count();
+
+connSecondary.setSecondaryOk()
+
+secondaryTestDB.Escuela.count();
+
+secondaryTestDB.Escuela.findOne()
+
+connPrimary = new Mongo("localhost:20000")
+
+primaryDB = connPrimary.getDB("CampeonatoKarate")
+
+primaryDB.isMaster()
+
+primaryDB.adminCommand({shutdown : 1});
+
+connNewPrimary = new Mongo("localhost:20001")
+
+newPrimaryDB = connNewPrimary.getDB("CampeonatoKarate")
+
+newPrimaryDB.isMaster()
+
+//Server console
+
+MiejReplicaSet.stopSet()
+
+
